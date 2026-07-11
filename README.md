@@ -1,12 +1,29 @@
-- 👋 Hi, I’m @Akshithasriram07
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Akshitha Sriram
 
-<!---
-Akshithasriram07/Akshithasriram07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+AI Research Enthusiast | Computer Science Student
+Building AI, Computer Vision and Full Stack Applications
+
+B.Tech CSE @ RGUKT IIIT Ongole
+CGPA: 9.38
+
+Interested in
+• Artificial Intelligence
+• Machine Learning
+• Computer Vision
+• LLM Applications
+• Backend Development
+
+Currently Learning
+Deep Learning
+PyTorch
+Transformers
+MLOps
+
+Open to
+AI Research Internships
+Software Engineering Internships
+
+Contact
+LinkedIn
+Portfolio
+Email
