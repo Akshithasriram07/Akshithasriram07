@@ -24,6 +24,5 @@ AI Research Internships
 Software Engineering Internships
 
 Contact
-LinkedIn
-Portfolio
-Email
+LinkedIn: https://www.linkedin.com/in/akshitha-sriram-20857b319/
+Email: akshithasriram54@gmail.com
